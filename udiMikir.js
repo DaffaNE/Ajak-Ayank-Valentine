@@ -12,7 +12,7 @@ function upsertYesResponse() {
       `;
     }
 
-    function moveNoButton() {
+    function gi() {
       const noBtn = document.querySelector('.no');
       const x = Math.random() * 200 - 100;
       const y = Math.random() * 200 - 100;
